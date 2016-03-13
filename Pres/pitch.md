@@ -20,6 +20,19 @@ Calculation
 
 IMC <- weight/height^2
 
+As an example, for a height of 1.70m and weight of 70kgs we we'd have:
+
+
+```r
+height<-1.7
+weight<-70
+IMC<-70/(1.70^2)
+IMC
+```
+
+```
+[1] 24.22145
+```
 Table of Results
 ========================================================
 
