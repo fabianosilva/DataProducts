@@ -1,0 +1,20 @@
+---
+title: "IMC Calculation"
+author: "Fabiano Silva"
+date: "March 13, 2016"
+output: html_document
+---
+
+This the documentation for the **Coursera Data Products Class**, week 4 assignment. In this document I'll describe how to use my application.
+
+#Getting Started
+
+This application has two data inputs:
+
+**Height** - where the user has to input his height in METERS.
+**Weight** - where the user has to input his weight in KILOS.
+
+After completing this step, hitting "submit" button will make the calculations for entered values and the results will be displayed on left side of the screen. 
+
+Go to the [application] (https://fabiano.shinyapps.io/DataProducts/)
+
