@@ -25,11 +25,14 @@ Table of Results
 
 <p>With the results of computation, the number is then compared to a table to know the result:
 <p>
-IMC | Result
-------------- | -------------
-<=18.5 | Underweight
+
+IMC             | Result
+-------------   | -------------
+<=18.5          | Underweight
 18.5 < IMC < 25 | Normal 
 >=25 | Overweight
+
+
 
 Application
 =================
